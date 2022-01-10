@@ -1,6 +1,6 @@
 # Django Admin Soft PRO
 
-Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashboard](https://django-soft-ui-dashboard.appseed-srv1.com/)** (PRO version). Soft UI Pro is a premium Bootstrap 4 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript. It is based on the latest version of Bootstrap.
+Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashboard](https://django-soft-ui-dashboard-pro.appseed-srv1.com/)** (PRO version). Soft UI Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript. It is based on the latest version of Bootstrap.
 
 > Originally coded by [Iman Karimi](https://github.com/imankarimi), actively supported by [AppSeed](https://appseed.us/) via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
@@ -180,4 +180,4 @@ $ python manage.py runserver # default port 8000
 <br />
 
 ---
-[Django Admin Soft UI PRO](https://appseed.us/product/django-soft-ui-dashboard) - Provided by **[AppSeed](https://appseed.us/)**
+[Django Admin Soft UI PRO](https://appseed.us/product/django-soft-ui-dashboard-pro) - Provided by **[AppSeed](https://appseed.us/)**
